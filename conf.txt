@@ -1,0 +1,3 @@
+/home/os2020/students
+/home/os2020/io/input.txt
+/home/os2020/io/correct_output.txt
